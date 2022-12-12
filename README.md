@@ -21,3 +21,14 @@ __THEN__ my input should be validated and at least one character type should be 
 __THEN__ a password is generated that matches the selected criteria<br>
 *WHEN the password is generated*<br>
 __THEN__ the password is either displayed in an alert or written to the page<br>
+
+## ScreenShots
+
+![PLOT](./assets/screenshots/NoOptions.PNG)
+![PLOT](./assets/screenshots/InvalidNum.PNG)
+![PLOT](./assets/screenshots/TestOne.PNG)
+![PLOT](./assets/screenshots/TestTwo.PNG)
+![PLOT](./assets/screenshots/TestThree.PNG)
+
+## Deployment Link
+https://stev232.github.io/Stev232sPasswordGenerator/
