@@ -4,7 +4,7 @@ var max = 128;
 var charLength;
 var alphabet = "abcdefghijklmnopqrstuvwxyz";
 var numbers = "0123456789";
-var specialChar = "!@#$%&";
+var specialChar = " !#$%&()*+,-./:;<=>?@[\]^_`{|}~";
 
 // Add listener for input fields
 var length = document.querySelector("#length");
